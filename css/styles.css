@@ -1,0 +1,47 @@
+/***********************TAG ELEMENTS*************************/
+h1 {
+  font-family: Oswald, sans-serif;
+  font-size: 4em;
+  margin: 1em auto 0;
+}
+
+body {
+  background-color: #f5e1da;
+  font-family: "Noto Sans", sans-serif;
+  margin: 0;
+}
+
+/***********************CLASS ELEMENTS***********************/
+.menu-element {
+  color: #40a798;
+  display: inline-block;
+
+  /*font-family: Arial ,sans-serif;*/
+  font-weight: bold;
+  text-align: right;
+  text-decoration: none;
+  padding: 0 2%;
+  margin-top: 0;
+}
+
+.menu-element:hover {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-image: url("../images/spices-background2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #476268;
+  /*font-family: Brush Script MT, cursive;*/
+  height: 280px;
+  padding: 2% 5%;
+}
+.my-description {
+  font-size: 1.7em;
+  margin: 0;
+}
+
+
+
+/***********************ID ELEMENTS**************************/
